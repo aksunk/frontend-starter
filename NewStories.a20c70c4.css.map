@@ -1,0 +1,1 @@
+{"version":3,"sources":["NewStories.css"],"names":[],"mappings":"AAAA,UAEE,aACF,CAEA,WACE,YAAa,CACb,eAAgB,CAChB,6BACF","file":"NewStories.a20c70c4.css","sourceRoot":"..\\src","sourcesContent":["html,\r\nbody {\r\n  display: block;\r\n}\r\n\r\n.titlemenu {\r\n  display: flex;\r\n  list-style: none;\r\n  justify-content: space-between;\r\n}\r\n"]}

@@ -1,0 +1,13 @@
+html,
+body {
+  display: block;
+}
+
+.titlemenu {
+  display: flex;
+  list-style: none;
+  justify-content: space-between;
+}
+
+
+/*# sourceMappingURL=/NewStories.91fc5576.css.map */
